@@ -98,13 +98,13 @@ It covers all day-to-day QA workflows: creating and managing test cases, pulling
 ### Option A — Install directly from GitHub (recommended for users)
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/alm-mcp.git
+pip install git+https://github.com/UditMahaldar/alm-mcp.git
 ```
 
 ### Option B — Clone and install locally (recommended for contributors)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/alm-mcp.git
+git clone https://github.com/UditMahaldar/alm-mcp.git
 cd alm-mcp
 pip install -e ".[dev]"
 ```
