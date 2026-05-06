@@ -251,9 +251,7 @@ alm-mcp/
 1. Fork the repository and create a feature branch.
 2. Install dev dependencies: `pip install -e ".[dev]"`
 3. Make your changes.
-4. Run the test suite: `pytest`
-5. Run the linter: `ruff check src/ tests/`
-6. Open a pull request with a clear description.
+4. Open a pull request with a clear description.
 
 ---
 
