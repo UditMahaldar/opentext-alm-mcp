@@ -36,8 +36,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/alm-mcp"
-Issues   = "https://github.com/YOUR_USERNAME/alm-mcp/issues"
+Homepage = "https://github.com/UditMahaldar/alm-mcp"
+Issues   = "https://github.com/UditMahaldar/alm-mcp/issues"
 
 [project.scripts]
 alm-mcp = "alm_mcp.server:main"
